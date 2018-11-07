@@ -1,0 +1,5 @@
+Sun, 12 Aug 2018 16:09:37 LoggingDemo.py[line:21] DEBUG This is debug message
+Sun, 12 Aug 2018 16:09:37 LoggingDemo.py[line:22] INFO This is info message
+Sun, 12 Aug 2018 16:09:37 LoggingDemo.py[line:23] INFO 你好
+Sun, 12 Aug 2018 16:09:37 LoggingDemo.py[line:24] WARNING This is warning message
+Sun, 12 Aug 2018 16:09:37 LoggingDemo.py[line:25] WARNING 你好
